@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1494391971 source:x:\c workspace\11020\main.cpp
+	<iostream>
+	<string.h>
+	"function.h"
+
+1494391972 x:\c workspace\11020\function.h
+	<iostream>
+	<math.h>
+
+1494405881 source:x:\c workspace\11020\function.cpp
+	"function.h"
+	<string.h>
+

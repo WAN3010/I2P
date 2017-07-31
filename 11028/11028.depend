@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1496279624 source:x:\c workspace\11028\main.cpp
+	"function.h"
+
+1496279625 x:\c workspace\11028\function.h
+	<iostream>
+	<vector>
+	<set>
+	<list>
+	<algorithm>
+
+1496297388 source:x:\c workspace\11028\function.cpp
+	<iostream>
+	"function.h"
+
